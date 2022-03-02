@@ -1,9 +1,8 @@
 ---
 title: "Tema 3"
 subtitle: Tratamiento de Datos. Grado en Ciencia de Datos- UV
-author: "Marcelino Martínez"
-date:  "`r Sys.Date()`"  #Pondría la fecha del día actual
- 
+author: "Sergio Cabral Martínez"
+date:  "`r Sys.Date()`"  #02/03/2022
 params:
   lang: ES
 lang: "`r switch(params$lang, ES = 'es-ES', EN = 'en-US')`"
